@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "hi
-echo "how are you""
+echo "all the variables passed to the script: $@"
